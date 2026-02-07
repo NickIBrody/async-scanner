@@ -1,4 +1,5 @@
-
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Rust](https://img.shields.io/badge/rust-1.75+-orange.svg)](https://www.rust-lang.org)
 # ⚡ Port Scanner
 
 Fast asynchronous TCP port scanner written in Rust using Tokio.
