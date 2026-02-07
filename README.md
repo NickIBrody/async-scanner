@@ -1,5 +1,4 @@
-![GitHub stars](https://img.shields.io/github/stars/NickIBrody/async-scanner)
-![License](https://img.shields.io/github/license/NickIBrody/async-scanner)
+
 # ⚡ Port Scanner
 
 Fast asynchronous TCP port scanner written in Rust using Tokio.
