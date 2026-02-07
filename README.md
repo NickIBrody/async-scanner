@@ -21,3 +21,8 @@ Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/port-scanner.git
 cd port-scanner
+
+Build:
+cargo build --release
+Binary will be available at:
+target/release/port-scanner
