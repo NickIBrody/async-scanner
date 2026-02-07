@@ -32,7 +32,7 @@ target/release/port-scanner
 
 After building:
 
-```bash
+
 # Scan top 100 most common ports on a single host
 ./port-scanner -t 192.168.1.1 --top-ports 100
 
