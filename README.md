@@ -28,3 +28,16 @@ Build:
 cargo build --release
 Binary will be available at:
 target/release/port-scanner
+### Quick Start / Usage Examples
+
+After building:
+
+```bash
+# Scan top 100 most common ports on a single host
+./port-scanner -t 192.168.1.1 --top-ports 100
+
+# Scan full port range (1–65535) on a subnet with banner grabbing + save to JSON
+./port-scanner 10.0.0.0/24 -p 1-65535 --banner --json results.json
+
+# Very fast scan with high concurrency and shorter timeout (example.com resolves to IP)
+./port-scanner example.com --concurrency 5000 --timeout 800ms
