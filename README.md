@@ -75,5 +75,4 @@ Feel free to open an issue or submit a pull request.
 ---
 
 # License
-
-Specify your license here (e.g., MIT, Apache 2.0).
+ MIT
