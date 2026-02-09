@@ -18,7 +18,7 @@ Async Scanner is designed to perform high-speed TCP port scanning with configura
 - 📊 Output in human-readable or JSON format
 - 📈 Progress indicator during scanning
 
-- ![work](Screenshots/Screenshot_20260209_085649_Termux.jpg)
+- ![work](screenshots/Screenshot_20260209_085649_Termux.jpg)
 
 ---
 
